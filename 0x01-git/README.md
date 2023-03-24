@@ -1,1 +1,1 @@
-My first readme
+Learning how to navigate around and proficiently use Git.
